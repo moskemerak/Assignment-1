@@ -31,8 +31,8 @@ public class ComplexCalculator {
 	
 	// clear()
 	// TODO sets current number to 0
-	public void clear(double d) {
-		currentNumber = currentNumber - currentNumber;
+	public void clear() {
+		currentNumber = 0;
 	} 
 	
 	// power()
